@@ -1,0 +1,71 @@
+.t{
+    width: 1255px;
+    height: 600px;
+}
+.box{
+    width: 99%;
+    height: 800px;
+
+}
+.toy{
+    width: 1255px;
+    height: 9px;
+}
+
+
+
+.n{
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 60px;
+    color:red;
+}
+
+.q{
+    float: left;
+    margin: 5px;
+    padding: 6px;
+
+}
+.e{
+ font-weight: 800;
+    margin: 90px 0 1rem 0 ;
+    padding: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.j{
+    text-align: center;
+    margin: 5px;
+    padding: 6px;
+    border-radius: 60px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+.man{
+    margin: 35px;
+    padding: 70px; 
+}
+.you{
+    margin: 35px;
+    padding: 70px; 
+}
+
+.o{
+    bottom: 45px;
+    margin: 75px;
+    /* padding: 65px;  */
+    
+}
+
+
+
+
+   
+   
+    
+ 
